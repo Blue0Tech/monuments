@@ -21,3 +21,17 @@ body {
     height: 50px;
     width: 50px;
 }
+
+.button-container {
+    text-align: center;
+}
+
+#get-weather {
+    border: none;
+    width: 60%;
+    margin: 1em;
+    padding: 1em;
+    background-color: black;
+    color: white;
+    border-radius: 1em;
+}
